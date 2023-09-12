@@ -7,3 +7,5 @@ This banking system has multiple features:
 3. Deposition of money
 4. Transfer of funds
 5. Balace enquiry
+
+So its all about the banking system , in which user can do multiple operations .
